@@ -86,5 +86,24 @@
 
 	"Training": {
 		"Hello, there is nothing here yet!": "Hello, there is nothing here yet!"
+	},
+
+	"TableScreen": {
+		"Data Table": "Data table",
+		"User Name": "User Name",
+		"Address": "Address",
+		"Created": "Created",
+		"Last sign in": "Last sign in"
+	},
+
+	"DetailScreen": {
+		"Back to table": "Back to table",
+		"Users detail screen": "Users detail screen",
+		"User was created": "User was created: ",
+		"Last sign in:": "Last sign in: ",
+		"IP adrress": "IP adrress: ",
+		"Mac address": "Mac address"
 	}
 }
+
+

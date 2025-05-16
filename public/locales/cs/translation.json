@@ -86,5 +86,22 @@
 
 	"Training": {
 		"Hello, there is nothing here yet!": "Zdravíčko, zatím tu nic není!"
+	},
+
+	"TableScreen": {
+		"Data Table": "Tabulka dat",
+		"User Name": "Uživatelské jméno",
+		"Address": "Adresa",
+		"Created": "Vytvořeno",
+		"Last sign in": "Poslední přihlášení"
+	},
+
+	"DetailScreen": {
+		"Back to table": "Zpět na tabulku",
+		"Users detail screen": "Detaily uživatelů",
+		"User was created": "Uživatel vytvořen: ",
+		"Last sign in": "Poslední přihlášení: ",
+		"IP address": "IP adresa: ",
+		"Mac address": "Mac adresa"
 	}
 }

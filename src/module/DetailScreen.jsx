@@ -70,9 +70,9 @@ export function DetailScreen(props) {
                                     </div>
                                     <ul className="list-group list-group-flush">
                                         <li className="list-group-item m-1">
-                                            <p><i class="bi bi-telephone-fill"></i> {user.phone_number}</p>
-                                            <p><i class="bi bi-envelope-fill"></i> {user.email}</p>
-                                            <p><i class="bi bi-geo-alt-fill"></i> {user.address}</p>
+                                            <p><i className="bi bi-telephone-fill"></i> {user.phone_number}</p>
+                                            <p><i className="bi bi-envelope-fill"></i> {user.email}</p>
+                                            <p><i className="bi bi-geo-alt-fill"></i> {user.address}</p>
                                         </li>
                                         <li className="list-group-item m-1">
                                             <p><b>{t("DetailScreen|User was created")}</b> <DateTime value={user.created} /> </p>

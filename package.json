@@ -29,6 +29,8 @@
 		"react-i18next": "^11.8.12",
 		"react-json-view": "^1.21.3",
 		"react-redux": "^7.2.0",
+		"react-router": "^6.16.0",
+		"react-router-dom": "^6.16.0",
 		"react-simple-tree-menu": "^1.1.18",
 		"react-tooltip": "^5.28.1",
 		"reactstrap": "^9.2.0",

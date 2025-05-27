@@ -2,7 +2,7 @@ import React from 'react';
 import { Container } from 'reactstrap';
 import { useTranslation } from 'react-i18next';
 import { DataTableCard2  } from 'asab_webui_components';
-import { Tooltip } from 'react-tooltip'
+import { Tooltip } from 'react-tooltip';
 import { DateTime } from 'asab_webui_components';
 
 
@@ -106,7 +106,7 @@ export function TableScreen(props) {
 			<h2><i className='bi bi-people-fill m-2'></i>{t("TableScreen|Data Table")}</h2>
 	
 		</div>);
-	}
+	};
 
 		return (
 		<Container className='h-100'>
